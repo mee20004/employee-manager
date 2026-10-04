@@ -1,0 +1,4 @@
+bin/
+obj/
+employees.json
+.DS_Store
